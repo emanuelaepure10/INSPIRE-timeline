@@ -29,6 +29,6 @@ DTSTART;TZID=Europe/Berlin:20220331T140000
 DTEND;TZID=Europe/Berlin:20220401T140000
 SUMMARY:69th MIG-T meeting
 DESCRIPTION:69th meeting of the technical sub-group of the INSPIRE Maintenance and Implementation Group
-LOCATION:Ispra
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
