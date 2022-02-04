@@ -29,6 +29,6 @@ DTSTART;TZID=Europe/Berlin:20220330T140000
 DTEND;TZID=Europe/Berlin:20220331T140000
 SUMMARY:14th MIG meeting
 DESCRIPTION:14th meeting of the INSPIRE Maintenance and Implementation Group.
-LOCATION:Ispra
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
