@@ -2,8 +2,8 @@
 name: Report a bug
 about: If you encounter any issues, errors, or unexpected behaviour while using our
   software, we kindly request that you report it to us.
-title: ''
-labels: ''
+title: "[BUG]:"
+labels: bug
 assignees: ''
 
 ---
