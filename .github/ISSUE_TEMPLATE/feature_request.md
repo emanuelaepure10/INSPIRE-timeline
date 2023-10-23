@@ -1,6 +1,7 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
+about: If you have a feature request or an idea that you believe could improve our
+  software, we would love to hear from you.
 title: ''
 labels: ''
 assignees: ''
