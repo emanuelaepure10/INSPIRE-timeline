@@ -3,7 +3,7 @@ name: Feature request
 about: If you have a feature request or an idea that you believe could improve our
   software, we would love to hear from you.
 title: "[Feature]:"
-labels: ''
+labels: bug
 assignees: ''
 
 ---
