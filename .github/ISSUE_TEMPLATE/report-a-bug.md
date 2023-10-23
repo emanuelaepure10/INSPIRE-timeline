@@ -1,6 +1,7 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: Report a BUG
+about: If you encounter any issues, errors, or unexpected behaviour while using our
+  software, we kindly request that you report it to us.
 title: ''
 labels: ''
 assignees: ''
