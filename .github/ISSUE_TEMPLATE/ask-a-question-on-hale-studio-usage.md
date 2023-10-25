@@ -1,6 +1,6 @@
 ---
 name: Ask a question on hale»studio usage
-about: If you have a question about using hale»studio, please use our forum.
+about: If you have a question about using hale»studio, please use the forum.
 title: ''
 labels: ''
 assignees: ''
